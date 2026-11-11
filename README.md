@@ -53,6 +53,40 @@ Curso técnico em Desenvolvimento de Sistemas (Ensino Médio Integrado). Conclu�
 </table>
 
 <section id="contato">
+  <h2>Projetos selecionados</h2>
+  <p>Lixo Invisível
+Site de front-end sobre o lixo que acumulamos sem perceber: arquivos digitais, eletrônicos e embalagens. Trabalho em grupo da disciplina de Desenvolvimento Front-End, com identidade visual própria em preto e verde-limão.
+
+Tecnologias: HTML e CSS
+Estado: página inicial concluída. Outras páginas estão planejadas e ainda não fazem parte do material.</p>
+
+  <h2>SecureFlow API</h2>
+  <p>Exercício de API com Node.js e Express para praticar CORS, registro de requisições e uma rota protegida por token.
+
+Tecnologias: Node.js e Express
+Estado: projeto de estudo. Os dados ficam em memória e o token está fixo no código, então não serve como solução de segurança para produção.
+<p>Repositório: secureflow-api
+
+<h2>BarberEZ</h2>
+
+<p> Protótipo de interface para uma barbearia, com telas de cadastro, login, agendamento e painel.
+
+Tecnologias: HTML, CSS e JavaScript
+Estado: protótipo de interface. O código do servidor não está incluído no repositório.
+Repositório: TCC-MarcaEZ
+</p>
+
+<h2>Modelagem de dados: ERP para loja de roupas</h2>
+
+<p> Trabalho acadêmico em grupo da disciplina de Modelagem de Dados. Reúne requisitos, regras de negócio, cardinalidades, dicionário de dados e DER de um ERP para uma loja real de roupas infantis e juvenis.
+
+Foco: requisitos e modelagem de dados
+Estado: documentação e modelagem. Não é uma aplicação executável.
+<p>Repositório: Trabalho-DER</p>
+  
+</section>
+
+<section id="contato">
   <h2>Contato</h2>
   <p>Estou buscando estágio em tecnologia.</p>
   <ul>
