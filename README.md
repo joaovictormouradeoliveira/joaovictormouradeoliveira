@@ -1,6 +1,5 @@
 # Oi, eu sou o João Victor 👋
-Técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Softa.
+Técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Software
 
 - 📍 São Paulo-SP
-- 💼 Atento Brasil S.A.
-- 🔗 [LinkedIn](https://linkedin.com/in/caaioo-pedroso)
+- 🔗 [LinkedIn][(https://www.linkedin.com/in/joao-victor-moura-oliveira/)]
