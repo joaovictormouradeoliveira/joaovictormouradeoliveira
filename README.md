@@ -47,7 +47,16 @@ Curso técnico em Desenvolvimento de Sistemas (Ensino Médio Integrado). Conclu�
     </tr>
     <tr>
       <td>Python</td>
-      <td>Scripts do repositório <a href="https://github.com/SEU-USUARIO/help-desk">help-desk</a>, trabalho multidisciplinar</td>
+      <td>Scripts do repositório, trabalho multidisciplinar</td>
     </tr>
   </tbody>
 </table>
+
+<section id="contato">
+  <h2>Contato</h2>
+  <p>Estou buscando estágio em tecnologia.</p>
+  <ul>
+    <li><strong>E-mail:</strong> <a href="mourajoao428@gmail.com">mourajoao428@gmail.com</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/joao-victor-moura-oliveira/" target="_blank" rel="noopener"> linkedin.com/in/joao-victor-moura-oliveira/</a></li>
+  </ul>
+</section>
